@@ -31,4 +31,7 @@
 - 🤖 I'm part of the [UnBall](https://unball.github.io/) competition team, where I develop the [firmware](https://github.com/unball/Firmware) for the robots and the [communication](https://github.com/unball/communication) between them and the computer in the team's main project, [MALP](https://github.com/unball/MALP)
 
 ![Status no GitHub](https://github-readme-stats.vercel.app/api?username=adornelas)
-[![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adornelas&langs_count=8&layout=compact)](https://github.com/adornelas/github-readme-stats)
+
+<!-- Minha linguagem principal é Assembly? -->
+<!-- [![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adornelas&langs_count=8&layout=compact)](https://github.com/adornelas/github-readme-stats) -->
+
